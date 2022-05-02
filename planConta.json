@@ -9,7 +9,7 @@
 		"id": "011",
 		"estado": "activo",
 		"name": "Bienes en préstamo, custodia y no capitalizables",
-		"pid": "0"
+		"pid": "01"
 	},
 	{
 		"id": "0111",
@@ -27,7 +27,7 @@
 		"id": "012",
 		"estado": "activo",
 		"name": "Valores y bienes entregados en garantía",
-		"pid": "0"
+		"pid": "01"
 	},
 	{
 		"id": "0121",
@@ -81,7 +81,7 @@
 		"id": "013",
 		"estado": "activo",
 		"name": "Activos Realizables entregados en consignación",
-		"pid": "0"
+		"pid": "01"
 	},
 	{
 		"id": "02",
@@ -93,37 +93,37 @@
 		"id": "021",
 		"estado": "activo",
 		"name": "Contratos a futuro",
-		"pid": "0"
+		"pid": "02"
 	},
 	{
 		"id": "022",
 		"estado": "activo",
 		"name": "Contratos a término (forward)",
-		"pid": "0"
+		"pid": "02"
 	},
 	{
 		"id": "023",
 		"estado": "activo",
 		"name": "Permutas financieras (swap)",
-		"pid": "0"
+		"pid": "02"
 	},
 	{
 		"id": "024",
 		"estado": "activo",
 		"name": "Contratos de opción",
-		"pid": "0"
+		"pid": "02"
 	},
 	{
 		"id": "03",
 		"estado": "activo",
 		"name": "OTRAS CUENTAS DE ORDEN DEUDORAS",
-		"pid": "0"
+		"pid": "03"
 	},
 	{
 		"id": "031",
 		"estado": "activo",
 		"name": "Contratos aprobados",
-		"pid": "0"
+		"pid": "03"
 	},
 	{
 		"id": "0311",
@@ -141,7 +141,7 @@
 		"id": "032",
 		"estado": "activo",
 		"name": "Bienes dados de baja",
-		"pid": "0"
+		"pid": "03"
 	},
 	{
 		"id": "0321",
@@ -155,7 +155,7 @@
 		"name": "Inmuebles, maquinaria y equipo",
 		"pid": "032"
 	},
-	{ "id": "039", "estado": "activo", "name": "Diversas", "pid": "0" },
+	{ "id": "039", "estado": "activo", "name": "Diversas", "pid": "03" },
 	{
 		"id": "04",
 		"estado": "activo",
@@ -172,7 +172,7 @@
 		"id": "061",
 		"estado": "activo",
 		"name": "Bienes recibidos en préstamo y custodia",
-		"pid": "0"
+		"pid": "06"
 	},
 	{
 		"id": "0611",
@@ -190,7 +190,7 @@
 		"id": "062",
 		"estado": "activo",
 		"name": "Valores y bienes recibidos en garantía",
-		"pid": "0"
+		"pid": "06"
 	},
 	{
 		"id": "0621",
@@ -244,7 +244,7 @@
 		"id": "063",
 		"estado": "activo",
 		"name": "Activos realizables recibido en consignación",
-		"pid": "0"
+		"pid": "06"
 	},
 	{
 		"id": "07",
@@ -256,25 +256,25 @@
 		"id": "071",
 		"estado": "activo",
 		"name": "Contratos a Futuro",
-		"pid": "0"
+		"pid": "07"
 	},
 	{
 		"id": "072",
 		"estado": "activo",
 		"name": "Contratos a termino (formard)",
-		"pid": "0"
+		"pid": "07"
 	},
 	{
 		"id": "073",
 		"estado": "activo",
 		"name": "Permutas financieras (swap)",
-		"pid": "0"
+		"pid": "07"
 	},
 	{
 		"id": "074",
 		"estado": "activo",
 		"name": "Contratos de opción",
-		"pid": "0"
+		"pid": "07"
 	},
 	{
 		"id": "08",
@@ -282,7 +282,7 @@
 		"name": "OTRAS CUENTAS DE ORDEN ACREEDORAS",
 		"pid": "0"
 	},
-	{ "id": "089", "estado": "activo", "name": "Diversas", "pid": "0" },
+	{ "id": "089", "estado": "activo", "name": "Diversas", "pid": "08" },
 	{
 		"id": "09",
 		"estado": "activo",
